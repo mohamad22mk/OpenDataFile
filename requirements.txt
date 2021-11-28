@@ -1,0 +1,2 @@
+pip install pyyaml==6.0
+pip install configparser==5.1.0
