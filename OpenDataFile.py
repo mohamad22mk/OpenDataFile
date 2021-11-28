@@ -27,7 +27,7 @@ Created new File yaml and Writed Data in new file
 """
 
 
-__version__ = "1.5.0"
+__version__ = "1.5.1"
 
 
 import yaml          #YAML
