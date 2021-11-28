@@ -12,13 +12,16 @@
 
 ### Install Required
 
-Install the required Tools ==> [python3, pip]
-```bash
-sudo bash Install.sh
+Install the required Tools (python3, pip3)
+```Bash
+sudo apt update
+
+sudo apt install python3
+sudo apt install python3-pip
 ```
 
 
-Install the required Libraries ==> [pyyaml, json, configparser, Pickle]
+Install the required Libraries (pyyaml, json, configparser, Pickle)
 ```Terminal
 pip install -r requirements.txt
 ```
