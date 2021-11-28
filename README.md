@@ -1,7 +1,7 @@
 ## In the name of God - Made in Iran - by @MKG
 
 
-### With this code you can
+## With this code you can
 * open. Write. Update. Yaml   File
 * open. Write. Update. Json   File
 * open. Write. Update. Pickle File
@@ -10,9 +10,9 @@
 
 
 
-### Install Required
+## Install Required
 
-Install the required Tools (python3, pip3)
+Install Tools (python3, pip3)
 ```Bash
 sudo apt update
 
@@ -21,7 +21,7 @@ sudo apt install python3-pip
 ```
 
 
-Install the required Libraries (pyyaml, json, configparser, Pickle)
+Install Libraries (pyyaml, json, configparser, Pickle)
 ```Terminal
 pip install -r requirements.txt
 ```
