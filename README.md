@@ -1,18 +1,7 @@
-  _______    _          _______ 
- (       )  | \    /\  (  ____ \
- | () () |  |  \  / /  | (    \/
- | || || |  |  (_/ /   | |      
- | |(_)| |  |   _ (    | | ____ 
- | |   | |  |  ( \ \   | | \_  )
- | )   ( |  |  /  \ \  | (___) |
- |/     \|  |_/    \/  (_______)
-
-
-
 # In the name of God - Made in Iran - by @MKG
 
 
-# With this code you can
+# With this code you can E\n
 1: open. Write. Update Yaml file
 2: open. Write. Update the Json file
 3: open. Ini file
