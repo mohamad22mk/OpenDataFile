@@ -2,10 +2,10 @@
 
 
 ## With this code you can
-* open. Write. Update. Yaml   File
-* open. Write. Update. Json   File
-* open. Write. Update. Pickle File
-* open. Ini file
+* Read. Write. Update. Yaml   File
+* Read. Write. Update. Json   File
+* Read. Write. Update. Pickle File
+* Read. Ini file
 
 
 
